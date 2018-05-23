@@ -1,6 +1,16 @@
 # Requisitos de Software 2018/1
 ## Grupo 02 - Instagram
-![](https://camo.githubusercontent.com/dad36e8a8047a3d3b7ab5b86ea51012f570cbcaa/687474703a2f2f75706c6f61646465696d6167656e732e636f6d2e62722f696d616765732f3030312f3432362f3538312f6f726967696e616c2f35663938356562613362373732626234386235653866333861336562633337372e706e673f31353236373735333333)
+
+<p align="center">
+  <img src="http://uploaddeimagens.com.br/images/001/426/581/original/5f985eba3b772bb48b5e8f38a3ebc377.png?1526775333" width=500 height=400>
+</p>
+<p align="justify">Repósitório dedicado à disciplina de Requisitos de Software do curso de Engenharia de Software da 
+Universidade de Brasília (UnB) - Campus FGA, semestre 2018/1.
+
+<p align="justify">Todas as documentações acerca do projeto podem ser encontradas na <a href="https://github.com/Instagram-Requisitos-2018-1/Instagram/wiki">Wiki</a> desse repositório.
+
 <h2 style="text-align: right;">
 [Acesse a Wiki](https://github.com/Instagram-Requisitos-2018-1/Instagram/wiki)
 </h2>
+
+
