@@ -7,4 +7,4 @@
 <p align="justify">Repósitório dedicado à disciplina de Requisitos de Software do curso de Engenharia de Software da 
 Universidade de Brasília (UnB) - Campus FGA, semestre 2018/1.
 
-<p align="justify">Todas as documentações acerca do projeto podem ser encontradas na <a href="https://github.com/Instagram-Requisitos-2018-1/Instagram/wiki">Wiki</a> desse repositório
+<p align="justify">Todas as documentações acerca do projeto podem ser encontradas na <a href="https://github.com/Instagram-Requisitos-2018-1/Instagram/wiki">Wiki</a> desse repositório.
