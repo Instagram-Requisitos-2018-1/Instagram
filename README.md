@@ -9,8 +9,7 @@ Universidade de Brasília (UnB) - Campus FGA, semestre 2018/1.
 
 <p align="justify">Todas as documentações acerca do projeto podem ser encontradas na <a href="https://github.com/Instagram-Requisitos-2018-1/Instagram/wiki">Wiki</a> desse repositório.
 
-<h2 style="text-align: right;">
-[Acesse a Wiki](https://github.com/Instagram-Requisitos-2018-1/Instagram/wiki)
-</h2>
+# [Acesse a Wiki](https://github.com/Instagram-Requisitos-2018-1/Instagram/wiki)
+
 
 
