@@ -2,7 +2,7 @@
 ## Grupo 02 - Instagram
 
 <p align="center">
-  <img src="http://uploaddeimagens.com.br/images/001/426/581/original/5f985eba3b772bb48b5e8f38a3ebc377.png?1526775333" width=500 height=400>
+  <img src="http://uploaddeimagens.com.br/images/001/426/581/original/5f985eba3b772bb48b5e8f38a3ebc377.png?1526775333"
 </p>
 <p align="justify">Repósitório dedicado à disciplina de Requisitos de Software do curso de Engenharia de Software da 
 Universidade de Brasília (UnB) - Campus FGA, semestre 2018/1.
